@@ -4,8 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91ccc19b-294a-4a93-91c8-2bb8cd39a4b2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Ex_03062024/Lab001.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_03062024/Lab001.py" afterDir="false" />
+    <list default="true" id="91ccc19b-294a-4a93-91c8-2bb8cd39a4b2" name="Changes" comment="adding code">
+      <change afterPath="$PROJECT_DIR$/ex_12062024/Lab038.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_12062024/Lab039.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_12062024/Lab040.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_12062024/Lab041.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_12062024/Lab042.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_12062024/Lab043.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_12062024/Task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_12062024/Task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_12062024/Task3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,17 +31,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/sreesha2205/PyLearning3xATB.git",
-    "accountId": "562acb9a-9f2b-4fd8-9cd6-ab7c23c5dd8a"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sreesha2205&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sreesha2205/PyLearning3xATB.git&quot;,
+    &quot;accountId&quot;: &quot;562acb9a-9f2b-4fd8-9cd6-ab7c23c5dd8a&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2hkkc41ouKKA34k1v6JLJLZzxBl" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -40,8 +57,18 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Lab001.executor": "Run",
+    "Python.Lab038.executor": "Run",
+    "Python.Lab039.executor": "Run",
+    "Python.Lab040.executor": "Run",
+    "Python.Lab041.executor": "Run",
+    "Python.Lab042.executor": "Run",
+    "Python.Lab043.executor": "Run",
+    "Python.Task1.executor": "Run",
+    "Python.Task2.executor": "Run",
+    "Python.Task3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -60,6 +87,19 @@
       <option name="presentableId" value="Default" />
       <updated>1718145549663</updated>
     </task>
+    <task id="LOCAL-00001" summary="adding code">
+      <option name="closed" value="true" />
+      <created>1718146818647</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718146818647</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adding code" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding code" />
   </component>
 </project>
