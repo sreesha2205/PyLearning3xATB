@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91ccc19b-294a-4a93-91c8-2bb8cd39a4b2" name="Changes" comment="adding code">
-      <change afterPath="$PROJECT_DIR$/ex_12062024/Lab038.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_12062024/Lab039.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_12062024/Lab040.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_12062024/Lab041.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_12062024/Lab042.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_12062024/Lab043.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_12062024/Task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_12062024/Task2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_12062024/Task3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_17062014/lab44.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_17062014/lab45.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_17062014/lab46.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_17062014/lab47.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_17062014/lab48.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +61,9 @@
     "Python.Task1.executor": "Run",
     "Python.Task2.executor": "Run",
     "Python.Task3.executor": "Run",
+    "Python.lab46.executor": "Run",
+    "Python.lab47.executor": "Run",
+    "Python.lab48.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "preferences.pluginManager"
